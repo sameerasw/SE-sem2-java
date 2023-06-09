@@ -59,7 +59,7 @@
       </MenuBar>
       <ScrollPane prefHeight="426.0" prefWidth="604.0">
          <content>
-            <HBox prefHeight="422.0" prefWidth="614.0" style="-fx-background-color: #333333;">
+            <HBox prefHeight="422.0" prefWidth="614.0">
                <children>
                   <TabPane prefHeight="200.0" prefWidth="200.0" tabClosingPolicy="UNAVAILABLE">
                     <tabs>
@@ -162,7 +162,7 @@
                                  <content>
                                     <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
                                        <children>
-                                          <Text fx:id="output" fill="WHITE" layoutX="12.0" layoutY="51.0" strokeType="OUTSIDE" strokeWidth="0.0" textAlignment="CENTER" wrappingWidth="392.13671875" />
+                                          <Text fx:id="output" layoutX="12.0" layoutY="51.0" strokeType="OUTSIDE" strokeWidth="0.0" textAlignment="CENTER" wrappingWidth="392.13671875" />
                                        </children>
                                     </AnchorPane>
                                  </content>
